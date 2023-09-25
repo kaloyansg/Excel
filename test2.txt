@@ -1,0 +1,3 @@
+kokokoko, a,a,a,a,a,a,
+qwerty,5.5234,0
+1,2,3,4,=R2C1+R3C4,=5/R2C3

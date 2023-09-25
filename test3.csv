@@ -1,0 +1,5 @@
+golf,passat,seat
+1.8t,1.9tdi,1.6
+180,131,100
+=R3C1+R3C2,=R4C1+R3C3,
+=R4C1==R4C2,,a
